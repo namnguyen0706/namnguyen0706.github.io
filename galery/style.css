@@ -1,0 +1,50 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+#wrap{
+	max-width: 1000px;
+	margin:auto;
+	
+}
+#menu{
+	height: 100px;
+	color:blue;
+	
+}
+#menu span{
+	margin:50px;
+	font-size: 30px;
+}
+#banner img{
+	max-height: 400px;
+	width:100%
+}
+
+.galery{
+	float:left;
+	width:30%;
+	height:300px;
+	margin:5px;
+	border:1px solid #ccc;
+	
+}
+.galery:hover{
+	border:1px solid #777;
+}
+	
+#content img{
+	max-height: 250px;
+	max-width: 250px;
+	width:100%;
+	height: auto;
+	text-align: center;
+	margin:10px;
+	clear:both;
+}
+.desc{
+	text-align: center;
+	padding:5px;
+}
+
